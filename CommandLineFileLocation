@@ -1,0 +1,2 @@
+#Location of files to run AmpliconReadCounter
+C:\NOAA\20221019_CrabID\CrabSequences2>perl AmpliconReadCounter.pl -p primerProbeFile.txt --files sampleList.txt
